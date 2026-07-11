@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E00FF,50:8A2BE2,100:4B0082&height=260&section=header&text=Sandeep&fontSize=70&fontColor=E6E6FA&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Python%20%26%20C%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E00FF,50:8A2BE2,100:4B0082&height=260&section=header&text=Sandeep&fontSize=70&fontColor=E6E6FA&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Python%20and%20C%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+AI+%26+Machine+Learning;Learning+in+Public%2C+Building+in+Python;Exploring+AI%2FML+Through+Real+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=B.Tech+AI+and+Machine+Learning;Learning+in+Public%2C+Building+in+Python;Exploring+AI%2FML+Through+Real+Projects" alt="Typing SVG" />
 </a>
 
 <br/>
